@@ -1,0 +1,6 @@
+{
+  "name": "Pole Position Dashboard",
+  "description": "Real-time F1 dashboard with live timing and standings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
